@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BasicMathOperation_Ruhirtl.S.Properties
+namespace BasicMathOperation_Ruhirtl.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace BasicMathOperation_Ruhirtl.S.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BasicMathOperation_Ruhirtl.S.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BasicMathOperation_Ruhirtl.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

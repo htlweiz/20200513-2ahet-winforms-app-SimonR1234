@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("BasicMathOperation_Ruhirtl.S")]
+[assembly: AssemblyTitle("BasicMathOperation_Ruhirtl")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("BasicMathOperation_Ruhirtl.S")]
+[assembly: AssemblyProduct("BasicMathOperation_Ruhirtl")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("79ce6e73-9d4f-4f92-af04-3bae7ebc7b46")]
+[assembly: Guid("848515ca-f2c3-434b-99cc-17be80a27f35")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //

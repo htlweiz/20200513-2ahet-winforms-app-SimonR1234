@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BasicMathOperation_Ruhirtl.S.Properties
+namespace BasicMathOperation_Ruhirtl.Properties
 {
 
 

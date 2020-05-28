@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{79CE6E73-9D4F-4F92-AF04-3BAE7EBC7B46}</ProjectGuid>
+    <ProjectGuid>{848515CA-F2C3-434B-99CC-17BE80A27F35}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>BasicMathOperation_Ruhirtl.S</RootNamespace>
-    <AssemblyName>BasicMathOperation_Ruhirtl.S</AssemblyName>
+    <RootNamespace>BasicMathOperation_Ruhirtl</RootNamespace>
+    <AssemblyName>BasicMathOperation_Ruhirtl</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
