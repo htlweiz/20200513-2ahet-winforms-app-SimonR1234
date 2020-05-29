@@ -138,14 +138,14 @@ namespace BasicMathOperation_Ruhirtl
             {
                 number1 = Convert.ToInt32(txtNumber1.Text);
                 number2 = Convert.ToInt32(txtNumber2.Text);
-                if (number1 == 0 & number2 == 0)
+                if (number1 == 0)
                 {
                     lblResult.Text = "Fehler";
-                    MessageBox.Show("0te Wurzel aus 0", "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("0te Wurzel", "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 else
                 {
-                    result = Math.Pow(number2, 1.0 / number1);
+                    result = Math.Pow(number2, 1 / number1);
                     lblTypeResult1.Text = Convert.ToString(result);
                     lblResult.Text = "Ergebnis";
                 }
